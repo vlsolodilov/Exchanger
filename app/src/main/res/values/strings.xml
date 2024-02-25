@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exchanger</string>
+    <string name="exchange">Exchange</string>
+    <string name="amount">You have: %,.2f%s</string>
+    <string name="exchange_format">1%s = %.2f%s</string>
+    <string name="error">Error!</string>
+    <string name="error_message">Something went wrong\nLet\'s try again?</string>
+    <string name="try_again">Try again</string>
+</resources>

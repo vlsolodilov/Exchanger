@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Exchanger" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/blue</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="Theme.Exchanger" parent="Base.Theme.Exchanger">
+        <item name="toolbarStyle">@style/ToolBar</item>
+        <item name="appBarLayoutStyle">@style/AppBar</item>
+        <item name="materialButtonStyle">@style/Button</item>
+    </style>
+</resources>
